@@ -13,7 +13,7 @@
 </head>
 <body>
 <section class="header">
-    <h3><a href="https://github.com/werneckbh/qr-code" target="_blank">QR Code Generator for PHP</a></h3>
+    <h3><a href="https://github.com/zloadmin/qr-code" target="_blank">QR Code Generator for PHP</a></h3>
 </section>
 
 <section class="content">

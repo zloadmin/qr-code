@@ -44,4 +44,4 @@ Try scanning these codes:
 
 ---
 
-QR Code Generator for PHP is [licensed](https://github.com/werneckbh/qr-code/blob/master/LICENSE.md) under <a href="https://tldrlegal.com/license/mit-license" target="_blank">MIT</a>. 
+QR Code Generator for PHP is [licensed](https://github.com/zloadmin/qr-code/blob/master/LICENSE.md) under <a href="https://tldrlegal.com/license/mit-license" target="_blank">MIT</a>. 

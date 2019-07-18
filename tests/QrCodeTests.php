@@ -101,7 +101,7 @@ class QrCodeTests extends TestCase
 
     public function testIfQRUrlWorks ()
     {
-        $qr = new \QR_Code\Types\QR_Url('werneckbh.github.io/qr-code');
+        $qr = new \QR_Code\Types\QR_Url('zloadmin.github.io/qr-code');
         $this->createQR($qr);
 
         $this->assertTrue($this->getPNGReader()->text() === $qr->getCodeString());

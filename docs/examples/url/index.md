@@ -7,7 +7,7 @@ You can create a QR Code for having a device open a browser page to a website ad
 
 use QR_Code\Types\QR_Url;
 
-$url = new QR_Url('https://werneckbh.github.io/qr-code/');
+$url = new QR_Url('https://zloadmin.github.io/qr-code/');
 
 $url->setSize(8)->setMargin(2)->png();
 ```

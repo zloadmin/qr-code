@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/werneckbh/qr-code.svg?branch=master)](https://travis-ci.org/werneckbh/qr-code)
-[![Maintainability](https://api.codeclimate.com/v1/badges/156d614b78d88ec7bfe9/maintainability)](https://codeclimate.com/github/werneckbh/qr-code/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/156d614b78d88ec7bfe9/test_coverage)](https://codeclimate.com/github/werneckbh/qr-code/test_coverage)
+[![Build Status](https://travis-ci.org/zloadmin/qr-code.svg?branch=master)](https://travis-ci.org/zloadmin/qr-code)
+[![Maintainability](https://api.codeclimate.com/v1/badges/156d614b78d88ec7bfe9/maintainability)](https://codeclimate.com/github/zloadmin/qr-code/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/156d614b78d88ec7bfe9/test_coverage)](https://codeclimate.com/github/zloadmin/qr-code/test_coverage)
 
 # QR Code Generator for PHP
 
@@ -19,7 +19,7 @@
  Install using **composer**:
 
  ```bash
- $ composer require werneckbh/qr-code
+ $ composer require zloadmin/qr-code
  ```
 
  ## QR Code Types
@@ -36,7 +36,7 @@
   - vCard v3
   - Wi-fi Network Settings
   
-  Make sure you check the [Documentation](https://werneckbh.github.io/qr-code/) for further instructions.
+  Make sure you check the [Documentation](https://zloadmin.github.io/qr-code/) for further instructions.
   
  ## [Contributing](CONTRIBUTING.md)
  
